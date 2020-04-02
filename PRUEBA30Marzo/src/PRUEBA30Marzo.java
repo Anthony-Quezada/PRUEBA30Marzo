@@ -32,5 +32,10 @@ public class PRUEBA30Marzo {
     System.out.println("Geovanni Alfredo Argueta Anzueto");
     System.out.println("5av 3-67 Zona 6");
     System.out.println("55748374");    
+        
+    System.out.println("Carlos Andrés Miranda Méndez");
+    System.out.println("1a Calle A, Colonia Villas del Magisterio Zona 9");
+    System.out.println("58385781");
+    
     }
 }
