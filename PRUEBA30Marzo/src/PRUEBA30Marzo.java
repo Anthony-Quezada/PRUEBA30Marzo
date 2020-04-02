@@ -24,5 +24,9 @@ public class PRUEBA30Marzo {
     System.out.println("Denis Joel Cifuentes Cano");
     System.out.println("Zona 1 Chiantla");
     System.out.println("45883960");
+        
+    System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
+    System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
+    System.out.println("Telefono: 42252923");
     }
 }
