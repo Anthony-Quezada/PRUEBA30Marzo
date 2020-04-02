@@ -20,5 +20,9 @@ public class PRUEBA30Marzo {
     System.out.println("Nombre:  Anthony Adhelmar Quezada Saucedo");
     System.out.println("Direccion: 10 calle 9-94 zona 1 Chiantla");
     System.out.println("Telefono: 44945681");
+        
+    System.out.println("Denis Joel Cifuentes Cano");
+    System.out.println("Zona 1 Chiantla");
+    System.out.println("45883960");
     }
 }
