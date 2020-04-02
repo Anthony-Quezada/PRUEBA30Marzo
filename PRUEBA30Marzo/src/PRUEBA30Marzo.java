@@ -28,5 +28,9 @@ public class PRUEBA30Marzo {
     System.out.println("Nombre: Abner Obed Dominguez Rodriguez");
     System.out.println("Dirección: Colonia El Oasis, Zona 8, Huehuetenango");
     System.out.println("Telefono: 42252923");
+    
+    System.out.println("Geovanni Alfredo Argueta Anzueto");
+    System.out.println("5av 3-67 Zona 6");
+    System.out.println("55748374");    
     }
 }
